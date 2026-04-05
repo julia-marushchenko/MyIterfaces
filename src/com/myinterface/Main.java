@@ -38,7 +38,7 @@ class StudentImpl implements Student {
 
     public double getMarks(double[] marks) {
 
-        // Initializing sum of ,arks.
+        // Initializing sum of marks.
         double sum = 0;
 
         // Finding average mark.
